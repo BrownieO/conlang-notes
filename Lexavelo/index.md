@@ -28,3 +28,6 @@ The English grammar is used, with the following known differences:
 
 ## Vocabulary
 The creator mainly draws words from Europe and modifies them to his taste. His source languages include "Romance languages, Greek, Dutch, Swedish, and few Czech, and a bit Arabic, and etc."
+
+## Sample
+> Wi estas une kollaborativa communitat abutan Lexavelo Official cela iemando, inklusive vas, posso buil unda ekspandere. Projekto laik iste une depende en reder obte involver unda adder kontent. 
