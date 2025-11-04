@@ -4,7 +4,7 @@
 ## Introduction
 The [Léxavelo](https://youtube.com/@Lexavelo-language-commitee) project is a closed community themed around an English-based cant. Its creator wishes to open the community around a complete auxlang.
 
-The creator, Classicuscool, is an Asian student and gamer who also tries to speak English and Spanish.
+The creator, Classicuscool, is an Asian student and gamer who tries to speak English and Spanish.
 
 ## Alphabet
 Lexavelo uses the Spanish alphabet, plus the rare letters Á and É.
@@ -25,4 +25,4 @@ The English grammar is used, with the following known differences:
 - Past: prepend the word "var"
 
 ## Vocabulary
-Words come mostly from Europe and are modified to taste. Source languages include "Romance languages, Greek, Dutch, Swedish, and few Czech, and a bit Arabic, and etc."
+The creator mainly draws words from Europe and modifies them to taste. His source languages include "Romance languages, Greek, Dutch, Swedish, and few Czech, and a bit Arabic, and etc."
