@@ -2,14 +2,14 @@
 ![Coat of arms of the project](./Lexavelo_logo1.jpg)
 
 ## Introduction
-The Léxavelo project is a closed community themed around an English-based cant. Its creator wishes to develop a complete auxlang and then open his community.
+The Léxavelo project is a closed community themed around a relex of English. The creator's wish is to develop a complete auxlang and then open his community.
 
 The creator, Classicuscool, is an Asian student and gamer who tries to speak English and Spanish.
 
 The official wiki is [here](https://lexavelo-official.fandom.com/wiki/Lexavelo_Official_Wiki).
 
 ## Alphabet
-Lexavelo uses the Spanish alphabet, plus the rare letters Á and É.
+Lexavelo uses the Spanish alphabet, plus the random letters Á and É.
 
 ## Grammar
 The English grammar is used, with the following known differences:
