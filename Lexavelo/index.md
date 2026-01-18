@@ -6,7 +6,7 @@ Lexávelo is an English-based relex created by Classicuscool. His intent was to 
 
 The creator is an Asian student and gamer who tries to speak English and Spanish.
 
-The official wiki is [here](https://lexavelo-official.fandom.com/wiki/Lexavelo_Official_Wiki).
+You can find the official wiki [here](https://lexavelo-official.fandom.com/wiki/Lexavelo_Official_Wiki).
 
 ## Alphabet
 Lexavelo uses the full Latin alphabet, and a couple of words have acute accents. The creator pronounces it like Spanish.
