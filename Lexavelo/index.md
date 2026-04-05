@@ -2,17 +2,17 @@
 ![Coat of arms of the project](./Lexavelo_logo1.jpg)
 
 ## Introduction
-Lexávelo is an English-based relex created by Classicuscool. His intent was to create a community around his relex. However, after his account was hacked, he created a new server focused on all languages instead.
+Lexávelo is an English-based relexification created by Classicuscool. His intent was to grow a community around his relex. However, after his account was hacked, he created a new community around his relex, but renamed "Antarlang".
 
-The creator is an Asian student and gamer who tries to speak English and Spanish.
+The creator is a very young Asian student and gamer who tries to speak English and Spanish.
 
 You can find the official wiki [here](https://lexavelo-official.fandom.com/wiki/Lexavelo_Official_Wiki).
 
 ## Alphabet
-Lexavelo uses the full Latin alphabet, and a couple of words have acute accents. The creator pronounces it like Spanish.
+Lexavelo uses the full Latin alphabet, and a couple of words have acute accents. Classicus pronounces it like Spanish.
 
 ## Grammar
-The grammar of English is used, with the following known differences:
+The language uses his understanding of English grammar plus some conscious choices, yielding the following differences:
 
 - No word compounding
 - Almost no inflection
