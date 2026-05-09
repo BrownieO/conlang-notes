@@ -7,13 +7,34 @@
     </head>
     <body>
         <h1>Grammar</h1>
-        <h2>Verb "to be"</h2>
-		<p>A lone noun gets the verb "to be" on its right side. There are two default implicit pronouns for ths verb: "I" for speech and "this" for text.</p>
-		<p>E.g. memppu jjo = I am human; memppu = this is a human.</p>
 		<h2>Verbs</h2>
-		<p>Verbs act as programming functions, accepting a subject and sometimes an object. This yields a Verb-Object-Subject order.</p>
-		<p>E.g. la memppu jjo <=> ask human me <=> "Thing that asks me about a human".</p>
-		<p>Functions are nestable.</p>
-		<p>E.g. la me bımppu di <=> ask of name you <=> "What is your name?".</p>		
+        <p>Verbs act as programming functions. The first parameter is an object or subject complement. The last or only parameter is the subject. E.g.</p>
+		<ul>
+			<li>mımtti memppu jjo</li>
+			<li>be human me</li>
+			<li>I am a human</li>
+		</ul>
+		<h3>Verb "to be"</h3>
+		<p>All messages get the verb "to be" implicitly at the start. You only need to add a pronoun at the end.</p>
+		<p>E.g. memppu jjo = I am a human; memppu jju = this is a human.</p>
+		<h3>Nesting</h3>
+		<p>Functions are nestable. Consider this explicit function:</p>
+  	    <ul>
+			<li>la memppu jjo</li>
+			<li>ask human me</li>
+			<li>Asks me about a human</li>
+	    </ul>
+		<p>The full message nests that function inside the implicit "to be" one. I.e.</p>
+  	    <ul>
+			<li>(mımtti) la memppu jjo jju</li>
+			<li>(be) ask human me this</li>
+			<li>This asks me about a human</li>
+	    </ul>
+		<p>Here's another example:</p>
+  	    <ul>
+			<li>(mımtti) la me bımppu di jjo</li>
+			<li>(be) ask of name you me</li>
+			<li>I'm asking your name</li>
+		</ul>
     </body>
 </html>
