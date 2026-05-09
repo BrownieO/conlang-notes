@@ -9,31 +9,32 @@
         <h1>Grammar</h1>
 		<h2>Verbs</h2>
         <p>Verbs act as programming functions. The first parameter is an object or subject complement. The last or only parameter is the subject. E.g.</p>
+		<h4>Example function 1</h4>
 		<ul>
 			<li>mımtti memppu jjo</li>
 			<li>be human me</li>
 			<li>I am a human</li>
 		</ul>
-		<h3>Verb "to be"</h3>
-		<p>All messages get the verb "to be" implicitly at the start. You only need to add a pronoun at the end.</p>
-		<p>E.g. memppu jjo = I am a human; memppu jju = this is a human.</p>
+		<h4>Example function 2</h4>
+  	    <ul>
+			<li>la memppu di</li>
+			<li>ask human you</li>
+			<li>Asks you about a human</li>
+		</ul>
 		<h3>Nesting</h3>
-		<p>Functions are nestable. Consider this explicit function:</p>
+		<p>Functions are nestable. For example, we can nest the previous function inside a "to be" one:</p>
   	    <ul>
-			<li>la memppu jjo</li>
-			<li>ask human me</li>
-			<li>Asks me about a human</li>
+			<li>mımtti la memppu di jjo</li>
+			<li>be ask human you me</li>
+			<li>I am asking you about a human</li>
 	    </ul>
-		<p>The full message nests that function inside the implicit "to be" one. I.e.</p>
+		<h3>Implicit "to be"</h3>
+		<p>All messages get the verb "to be" implicitly at the start and a pronoun implicitly at the end. E.g.</p> 
+		<p>mımti memppu jju = memppu</p>
+		<p>Here are three nested functions:</p>
   	    <ul>
-			<li>(mımtti) la memppu jjo jju</li>
-			<li>(be) ask human me this</li>
-			<li>This asks me about a human</li>
-	    </ul>
-		<p>Here's another example:</p>
-  	    <ul>
-			<li>(mımtti) la me bımppu di jjo</li>
-			<li>(be) ask of name you me</li>
+			<li>(mımtti) la me bımppu di jjo jjo</li>
+			<li>(be) ask of name you me me</li>
 			<li>I'm asking your name</li>
 		</ul>
     </body>
